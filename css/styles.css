@@ -440,12 +440,12 @@ header{
     font-weight: var(--fw-bold);
 }
 
-.footer-link:hover,
+.footer__link:hover,
 .social-list__link:hover{
     opacity: .7;
 }
 
-.footer-link:hover{
+.footer__link:hover{
     text-decoration: underline;
 }
 
