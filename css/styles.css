@@ -15,7 +15,8 @@
 
     --clr-light: #fff; /*color white, color dark, color accent*/
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    /* --clr-accent: #16e0bd; */
+    --clr-accent: #2b68b8;
     /* --clr-accent: #f6333c; */
 
     --fs-h1: 3rem;  /*font sizes*/
@@ -412,6 +413,9 @@ header{
 .work-headings{
     color:var(--clr-light);
     font-weight: var(--fw-bold);
+}
+.describe-work{
+    margin-top: 4em;
 }
 
 
